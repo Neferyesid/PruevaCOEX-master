@@ -67,6 +67,11 @@ body{
     width: 100%;
     
 }
+.contain{
+    width: 100%;
+    text-align: center;
+    
+}
 .contenedorcard{
     width: 100%;
     display: flex;
